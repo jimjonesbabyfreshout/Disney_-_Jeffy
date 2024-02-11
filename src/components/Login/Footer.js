@@ -18,7 +18,7 @@ const Footer = () => {
           <li><p>Interest-Based-Ads</p></li>
           <li><p>Supported Devices</p></li>
           <li><p>Help</p></li>
-          <li><p>Gift Disney+</p></li>
+          <li><p>Gift Disney+ Jeffy</p></li>
           <li><p>About US</p></li>
           <li><p>Disney+ Partner Program</p></li>
           <li><p>Premier Access</p></li>

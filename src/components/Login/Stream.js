@@ -9,7 +9,7 @@ const Stream = () => {
             <TextInfo>
                 <h1 className='disney-tittles'>Stream with Premier Access the</h1>
                 <h1 className='disney-tittles'>same day it's in theaters</h1>
-                <p>Comming May 28. Get Premier Access to Cruella for $29.99 with a Disney+ subsciption, and watch as many times as you like before it's available to all Disney+ subscribers at a later date.</p>
+                <p>Comming May 28. Get Premier Access to Cruella for $29.99 with a Disney+ Jeffy subsciption, and watch as many times as you like before it's available to all Disney+ subscribers at a later date.</p>
                 <button type='button' className='btn-theme-disney'>preorder</button>
             </TextInfo>
             <ImageInfo>

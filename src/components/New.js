@@ -11,7 +11,7 @@ function New() {
 
     return (
         <Container>
-            <h4>New to Disney+</h4>
+            <h4>New to Disney+ Jeffy+</h4>
             <Content>
                 {
                     movies && movies.map((value, index) => (

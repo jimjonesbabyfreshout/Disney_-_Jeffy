@@ -13,7 +13,7 @@ function Recommended() {
   
     return (
       <Container>
-        <h4>POPULAR ON DISNEY</h4>
+        <h4>POPULAR ON DISNEY+ JEFFY</h4>
         <Content>
           {
             movies && movies.map((value, index) => (

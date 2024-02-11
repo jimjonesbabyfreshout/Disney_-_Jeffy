@@ -10,7 +10,7 @@ const Stream_Exclusive = () => {
       <Section>
         <Container>
           <Tittle>
-            <h1 className='disney-tittles'>Disney+ has your favorite stories</h1>
+            <h1 className='disney-tittles'>Disney+ Jeffy has your favorite stories</h1>
             <p>An unprecedented collection of the world's most beloved movies and TV series.</p>
           </Tittle>
           <GridImg>
